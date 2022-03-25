@@ -1,5 +1,5 @@
 ### Hi there 👋 I'm Thiago Kaoru
-- 🌱 I’m currently learning frontend developement tools E.g: Nextjs, react and I'm also learning about devops 
+- 🌱 I’m currently learning frontend development tools E.g: Nextjs, react and I'm also learning about devops 
 - 👯 I’m looking to collaborate on  Escolas Exponenciais in a full time job 
 
 <!--
