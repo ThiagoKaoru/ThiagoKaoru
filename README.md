@@ -1,6 +1,8 @@
 ### Hi there 👋 I'm Thiago Kaoru
-- 🌱 I’m currently learning frontend development tools E.g: Nextjs, react and I'm also learning about devops 
-- 👯 I’m looking to collaborate on  Escolas Exponenciais in a full time job 
+- 😄 Pronouns: he/him
+- 🌱 I’m currently learning frontend development tools E.g: Nextjs, react and 
+- 🌱 I'm also learning about devops(AWS) 
+- 👯 I work at Escolas Exponenciais in a full time job 
 
 <!--
 **ThiagoKaoru/ThiagoKaoru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
