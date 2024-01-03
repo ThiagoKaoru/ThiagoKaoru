@@ -1,8 +1,9 @@
 ### Hi there 👋 I'm Thiago Kaoru
 - 😄 Pronouns: he/him
-- 🌱 I’m currently learning frontend development tools E.g: Nextjs, react and 
-- 🌱 I'm also learning about devops(AWS) 
-- 👯 I work at Escolas Exponenciais in a full time job 
+- 💬 I’m fullstack engineer with knowledge in NodeJS(express/knex) and React(NextJS)
+- 🌱 I’m currently learning backend development in golang
+- 🌱 I'm also have basic knowledge in AWS (lambda, s3, dynamo)
+- 👯 I work at isaac in a fullstack full time job 
 
 <!--
 **ThiagoKaoru/ThiagoKaoru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
